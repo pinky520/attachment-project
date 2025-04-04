@@ -5,7 +5,7 @@ namespace App\Http\Controllers\Admin\Auth;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use App\Models\Venues_;
-use App\Models\Resources_;
+use App\Models\Resources;
 
 class Venues_Controller extends Controller
 {
